@@ -1,0 +1,157 @@
+@font-face {
+  font-family: "NeueFrutigerThaiModern";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-Bd.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern";
+  font-style: italic;
+  font-weight: bold;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-BdIt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern-Bk";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-Bk.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern-BkIt";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-BkIt.ttf.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern-Blk";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-Blk.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern-Hv";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-Hv.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-It.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern";
+  font-style: normal;
+  font-weight: lighter;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-Lt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern";
+  font-style: italic;
+  font-weight: lighter;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-LtIt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern-Md";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-Md.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern-MdIt";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-MdIt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-Rg.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern-Thin";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-Thin.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern-ULt";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-ULt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiModern-XBlk";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiModern-XBlk.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad";
+  font-style: italic;
+  font-weight: bold;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-BdIt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad-Black";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-Black.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-Bold.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad-Book";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-Book.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad-Book";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-BookIt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-Heavy.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-It.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad";
+  font-style: normal;
+  font-weight: lighter;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-Light.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad";
+  font-style: italic;
+  font-weight: lighter;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-LtIt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad-Md";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-Md.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad-MdIt";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-MdIt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-Rg.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad-Thin";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-Thin.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad-ULt";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-ULt.ttf?#iefix") format("truetype"); }
+
+@font-face {
+  font-family: "NeueFrutigerThaiTrad-XBlk";
+  src: url("../../fonts/neuefruitegermodern/NeueFrutigerThaiTrad-XBlk.ttf?#iefix") format("truetype"); }
